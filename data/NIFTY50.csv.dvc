@@ -1,0 +1,5 @@
+outs:
+- md5: a9b228addac85cbcaec03f1662d7b1a0
+  size: 44606980
+  hash: md5
+  path: NIFTY50.csv

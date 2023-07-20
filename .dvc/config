@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_pratice1
+['remote "dvc_pratice1"']
+    url = s3://dvc5/dvc_pratice1
